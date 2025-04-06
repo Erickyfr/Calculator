@@ -12,7 +12,7 @@ A basic command-line calculator written in Python. This program allows users to 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Erickyfr/Calculator.git>
 2. **Navigate to the Project Directory**:
     ```bash
     cd <repository-name>
